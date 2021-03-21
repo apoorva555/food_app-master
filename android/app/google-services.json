@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927368650496",
+    "project_id": "foodapp-a8bbb",
+    "storage_bucket": "foodapp-a8bbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927368650496:android:db08f9899897ead54b1de5",
+        "android_client_info": {
+          "package_name": "com.raghu.food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927368650496-24q62rht2hrrqcganniok232ci3triki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTBfUe7MTUNsCeOD0p3lhrx0TL1osC28s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927368650496-24q62rht2hrrqcganniok232ci3triki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
